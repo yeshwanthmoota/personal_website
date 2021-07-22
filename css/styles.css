@@ -58,10 +58,10 @@ hr {
 
 .button_class {
     border: 3px solid;
-    border-color: #4048b4;
+    border-color: rgb(32, 169, 214);
     border-radius: 10px;
     background-color: white;
-    color: #4048b4;
+    color: rgb(32, 169, 214);
     
     display: inline-block;
     
@@ -72,7 +72,7 @@ hr {
 }
 
 .button_class:hover {
-    background-color: #4048b4;
+    background-color: rgb(32, 169, 214);
     color: white;
 }
 
