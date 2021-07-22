@@ -58,11 +58,10 @@ hr {
 
 .button_class {
     border: 3px solid;
-    border-color: rgb(32, 96, 214);
+    border-color: white;
     border-radius: 10px;
-    background-color: white;
-    color: rgb(32, 96, 214);
-    
+    background-color: rgb(41, 41, 41);
+    color: white;
     display: inline-block;
     
     text-decoration: none;
@@ -72,8 +71,8 @@ hr {
 }
 
 .button_class:hover {
-    background-color: rgb(32, 96, 214);
-    color: white;
+    background-color: white;
+    color: rgb(41, 41, 41);
 }
 
 a {
