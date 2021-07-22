@@ -84,3 +84,8 @@ a {
 a:hover {
     color: lightgreen;
 }
+
+::selection {
+    background-color: rgb(243, 243, 110);
+    color: black;
+}
