@@ -35,8 +35,7 @@ h3 {
 }
 
 body {
-    /* font-size: 2vw; */
-    font-size: 20px;
+    font-size: 1.6vw;
     font-family: monospace;
     margin: 0;
     color: white;
@@ -69,7 +68,7 @@ hr {
     text-decoration: none;
     padding: 15px 32px;
     text-align: center;
-    font-size: 16px;
+    font-size: 1.65vw;
 }
 
 .button_class:hover {
@@ -88,4 +87,9 @@ a:hover {
 ::selection {
     background-color: rgb(243, 243, 110);
     color: black;
+}
+
+.img_class {
+    width: 20vw;
+    height: 20vw;
 }
