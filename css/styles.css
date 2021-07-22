@@ -1,0 +1,86 @@
+.Top_container {
+    background-image: url("/personal_website/images/coding\ wallpaper.png");
+    padding: 100px;
+  }
+
+
+.Middle_container {
+    background-color: rgb(41, 41, 41);
+    padding: 100px;
+} 
+
+
+.Bottom_container {
+    background-color: rgb(5, 0, 49);
+    padding: 20px;
+}
+
+
+h1 {
+    font-size: 10vw;
+    font-family: "Architects Daughter";
+}
+
+h2 {
+    font-size: 5vw;
+    font-family : "Architects Daughter";
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 3vw;
+    font-family : "Architects Daughter";
+    color: darkkhaki;
+}
+
+body {
+    /* font-size: 2vw; */
+    font-size: 20px;
+    font-family: monospace;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    color: darkgoldenrod;
+    border-top: solid;
+    border-bottom: none;
+    align-self: center;
+    width: 60vw;
+}
+
+.button_class {
+    border: 3px solid;
+    border-color: #4048b4;
+    border-radius: 10px;
+    background-color: white;
+    color: #4048b4;
+    
+    display: inline-block;
+    
+    text-decoration: none;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.button_class:hover {
+    background-color: #4048b4;
+    color: white;
+}
+
+a {
+    color: rgb(255, 133, 133);
+}
+
+a:hover {
+    color: lightgreen;
+}
